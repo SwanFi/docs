@@ -1,8 +1,6 @@
 # SwanFi OP Reward Pool
 
-&#x20;
-
-Overview
+### Overview
 
 The SwanFi OP Reward Pool is a dedicated program to reward Swan token holders with OP tokens. This initiative aligns with Swan Chain’s mission to incentivize participation and expand the DePIN (Decentralized Physical Infrastructure Network) ecosystem. By staking Swan tokens, users earn OP rewards based on dynamic factors such as Total Value Locked (TVL), baseline targets, and performance boosts.
 
@@ -47,7 +45,7 @@ The SwanFi OP Reward Pool is a dedicated program to reward Swan token holders wi
 The baseline TVL increases linearly from **20M Swan** to **100M Swan** over 240 days:
 
 $$
-TVLextbaseline,daily=20M+(100M−20M240)×Day
+TVL_{ ext{baseline, daily}} = 20M + \left( \frac{100M - 20M}{240} \right) \times \text{Day}
 $$
 
 
@@ -56,32 +54,26 @@ $$
 
 1.  **Daily TVL Below Baseline**:
 
-    * A penalty multiplier PmP\_m applies, calculated as:&#x20;
+    * A penalty multiplier PmP\_m applies, calculated as:
 
-
-
-    $$Pm=1.0−(TVLextbaseline−TVLextdailyTVLextbaseline×0.7)$$
+    $$P_m = 1.0 - \left( \frac{TVL_{ ext{baseline}} - TVL_{ ext{daily}}}{TVL_{ ext{baseline}}} \times 0.7 \right)$$
 
     * Ensures rewards reduce proportionally to TVL deficits, with a minimum multiplier of **0.3**.
 2. **Daily TVL Above Baseline**:
-
-* A boost multiplier $$Bm=1.2$$applies, enhancing rewards for exceeding baseline targets.
-
-1.  **Cap Enforcement**:
+   * A boost multiplier $$B_m = 1.2$$ applies, enhancing rewards for exceeding baseline targets.
+3.  **Cap Enforcement**:
 
     * The total reward pool is capped at **625 OP tokens** daily:
 
-    $$Rextfinal=min⁡(Rextadjusted,625extOPtokens)$$
+    $$R_{ ext{final}} = \min\left(R_{ ext{adjusted}}, 625 ext{ OP tokens}\right)$$
 
 **Individual User Rewards**
 
 Each staker’s reward is proportional to their stake:
 
 $$
-Pi,extdaily=Si,extdailyTVLextdaily×Rextfinal
+P_{i, ext{daily}} = \frac{S_{i, ext{daily}}}{TVL_{ ext{daily}}} \times R_{ ext{final}}
 $$
-
-
 
 ***
 
@@ -98,13 +90,13 @@ $$
 
 1.  **Penalty Multiplier**:
 
-    $$Pm=1.0−(60M−50M60M×0.7)=0.8833$$
+    $$P_m = 1.0 - \left( \frac{60M - 50M}{60M} \times 0.7 \right) = 0.8833$$
 2.  **Adjusted Reward Pool**:
 
-    $$Rextadjusted=625×0.8833=552.06 OP tokens$$
+    $$R_{ ext{adjusted}} = 625 \times 0.8833 = 552.06 \text{ OP tokens}$$
 3.  **User Reward**:
 
-    $$Pi,extdaily=5M50M×552.06=55.206 OP tokens$$
+    $$P_{i, ext{daily}} = \frac{5M}{50M} \times 552.06 = 55.206 \text{ OP tokens}$$
 
 ***
 
