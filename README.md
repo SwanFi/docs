@@ -1,8 +1,12 @@
-# SwanFi
+---
+icon: hand-wave
+---
+
+# Introduction
 
 ### Overview
 
-SwanFi is a next-generation staking platform designed to empower Swan Chain’s mission of building the largest DePIN (Decentralized Physical Infrastructure Network) liquidity and service aggregator. It redefines compute resources as liquid assets, energizing the DePIN ecosystem and elevating the quality of decentralized services across multiple verticals.
+[SwanFi](https://swanfi.xyz) is a next-generation staking platform designed to empower Swan Chain’s mission of building the largest DePIN (Decentralized Physical Infrastructure Network) liquidity and service aggregator. It redefines compute resources as liquid assets, energizing the DePIN ecosystem and elevating the quality of decentralized services across multiple verticals.
 
 ***
 
