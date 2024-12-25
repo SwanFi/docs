@@ -73,10 +73,3 @@ Reward Pools are the backbone of SwanFi’s staking ecosystem, designed to incen
 
 ***
 
-### Conclusion
-
-Reward Pools are a cornerstone of SwanFi’s ecosystem, ensuring fair and transparent reward distribution for all participants. By leveraging tokenized staking, dynamic adjustments, and sustainable mechanisms, these pools drive long-term growth, liquidity, and adoption of decentralized infrastructure.
-
-***
-
-**Join SwanFi Reward Pools today and start earning rewards while supporting the decentralized futur**
