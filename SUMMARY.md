@@ -1,9 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Reward Pools](products.md)
 
 ## Reward Pools
 
-* [SwanFi OP Reward Pool](reward-pools/swanfi-op-reward-pool.md)
-* [Swan Staking Pool](reward-pools/swan-staking-pool.md)
+* [SwanFi OP Reward Pool](products/swanfi-op-reward-pool.md)
+* [Swan Staking Pool](products/swan-staking-pool.md)
