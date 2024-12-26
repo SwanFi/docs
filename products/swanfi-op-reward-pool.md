@@ -58,7 +58,7 @@ $$
 
     $$P_m = 1.0 - \left( \frac{TVL_{ ext{baseline}} - TVL_{ ext{daily}}}{TVL_{ ext{baseline}}} \times 0.7 \right)$$
 
-    * Ensures rewards reduce proportionally to TVL deficits, with a minimum multiplier of **0.3**.
+    * Ensures rewards reduce proportionally to TVL deficits, with a minimum multiplier of **0.1**.
 2. **Daily TVL Above Baseline**:
    * A boost multiplier $$B_m = 1.2$$ applies, enhancing rewards for exceeding baseline targets.
 3.  **Cap Enforcement**:
