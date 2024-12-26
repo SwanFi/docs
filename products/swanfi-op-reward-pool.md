@@ -54,7 +54,7 @@ $$
 
 1.  **Daily TVL Below Baseline**:
 
-    * A penalty multiplier PmP\_m applies, calculated as:
+    * A penalty multiplier $$P_m$$ applies, calculated as:
 
     $$P_m = 1.0 - \left( \frac{TVL_{ ext{baseline}} - TVL_{ ext{daily}}}{TVL_{ ext{baseline}}} \times 0.7 \right)$$
 
