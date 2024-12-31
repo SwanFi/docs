@@ -93,13 +93,13 @@ $$
 
 1.  **Penalty Multiplier**:
 
-    $$P_m = 1.0 - \left( \frac{60M - 50M}{60M} \times 0.7 \right) = 0.8833$$
+    $$P_m = 1.0 - \left( \frac{60M - 50M}{60M} \times 0.9 \right) = 0.85$$
 2.  **Adjusted Reward Pool**:
 
-    $$R_{ ext{adjusted}} = 625 \times 0.8833 = 552.06 \text{ OP tokens}$$
+    $$R_{ ext{adjusted}} = 625 \times 0.85 =531.25  \text{ OP tokens}$$
 3.  **User Reward**:
 
-    $$P_{i, ext{daily}} = \frac{5M}{50M} \times 552.06 = 55.206 \text{ OP tokens}$$
+    $$P_{i, ext{daily}} = \frac{5M}{50M} \times 531.25 = 53.125 \text{ OP tokens}$$
 
 ***
 
