@@ -83,7 +83,7 @@ $$
 
 1. **Daily Base Reward**: 416.67 OP tokens.
 2. **Daily Cap**: 625 OP tokens (maximum reward pool distributed daily).
-3. **Baseline TVL Growth**: Linear increase from 10M Swan to 100M Swan over 240 days.
+3. **Baseline TVL Growth**: Linear increase from 20M Swan to 100M Swan over 240 days.
 4. **Boost Multiplier**: 1.2 (reward boost for TVL above the baseline).
 5. **Penalty Multiplier**: Linear adjustment from 1.0 to 0.1 based on TVL deficit.
 6. **Daily TVL**: 50M Swan (below baseline).
