@@ -96,10 +96,10 @@ $$
     $$P_m = 1.0 - \left( \frac{60M - 50M}{60M} \times 0.9 \right) = 0.85$$
 2.  **Adjusted Reward Pool**:
 
-    $$R_{ ext{adjusted}} = 625 \times 0.85 =531.25  \text{ OP tokens}$$
+    $$R_{ ext{adjusted}} = 416.67 \times 0.85 =354.1695\text{ OP tokens}$$
 3.  **User Reward**:
 
-    $$P_{i, ext{daily}} = \frac{5M}{50M} \times 531.25 = 53.125 \text{ OP tokens}$$
+    $$P_{i, ext{daily}} = \frac{5M}{50M} \times 354.1695 = 35.41695 \text{ OP tokens}$$
 
 ***
 
