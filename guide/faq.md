@@ -13,11 +13,11 @@ SwanFi is a staking product platform designed for [Swan Chain](https://www.swanc
 
 ### How do I stake SWAN?
 
-You can find the complete staking tutorial here: https://docs.swanfi.xyz/guide/how-to-stake-swan-on-swanfi
+You can find the complete staking tutorial here: [https://docs.swanfi.xyz/guide/how-to-stake-swan-on-swanfi](https://docs.swanfi.xyz/guide/how-to-stake-swan-on-swanfi)
 
 ### How do I unstake?
 
-For detailed unstaking instructions, visit: https://docs.swanfi.xyz/guide/how-to-unstake-swan-on-swanfi
+For detailed unstaking instructions, visit: [https://docs.swanfi.xyz/guide/how-to-unstake-swan-on-swanfi](https://docs.swanfi.xyz/guide/how-to-unstake-swan-on-swanfi)
 
 ### How long is the unstaking period?
 
@@ -31,7 +31,7 @@ You can claim your rewards anytime. For detailed instructions on claiming reward
 
 Rewards are calculated based on your share of the total staking pool, daily revenue, and platform fees.&#x20;
 
-For details, visit: https://docs.swanfi.xyz/reward-pools/swanfi-op-reward-pool
+For details, visit: [https://docs.swanfi.xyz/reward-pools/swanfi-op-reward-pool](https://docs.swanfi.xyz/reward-pools/swanfi-op-reward-pool)
 
 ### When does the APR update?
 
@@ -48,7 +48,7 @@ Make sure you have:
 
 To claim OP rewards, ensure:
 
-* Your wallet is connected to OP
+* Your wallet is connected to OP mainnet
 * You have enough ETH in your wallet for gas fees
 
 ### Why do I see "insufficient SWAN" despite having enough balance?
