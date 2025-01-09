@@ -1,5 +1,9 @@
 # How to Stake SWAN on SwanFi
 
+Prerequisite:&#x20;
+
+Ensure you have enough gas for staking, to get gas from other chains, use this app: [https://gas.zip](https://gas.zip)
+
 **Step 1: Connect Your Wallet**
 
 * Visit the[ SwanFi website](https://swanfi.xyz) and click "Connect Wallet." When prompted, choose the wallet you'd like to connect.&#x20;
