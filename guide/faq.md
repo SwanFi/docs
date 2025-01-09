@@ -13,11 +13,11 @@ SwanFi is a staking product platform designed for [Swan Chain](https://www.swanc
 
 ### How do I stake SWAN?
 
-You can find the complete staking tutorial here: [https://docs.swanfi.xyz/guide/how-to-stake-swan-on-swanfi](https://docs.swanfi.xyz/guide/how-to-stake-swan-on-swanfi)
+You can find the complete staking tutorial here: [how-to-stake-swan-on-swanfi.md](how-to-stake-swan-on-swanfi.md "mention")
 
 ### How do I unstake?
 
-For detailed unstaking instructions, visit: [https://docs.swanfi.xyz/guide/how-to-unstake-swan-on-swanfi](https://docs.swanfi.xyz/guide/how-to-unstake-swan-on-swanfi)
+For detailed unstaking instructions, visit: [how-to-unstake-swan-on-swanfi.md](how-to-unstake-swan-on-swanfi.md "mention")
 
 ### How long is the unstaking period?
 
@@ -25,17 +25,25 @@ There is a 7-day unstaking period before users can receive their SWAN tokens bac
 
 ### When can I claim my rewards?
 
-You can claim your rewards anytime. For detailed instructions on claiming rewards, visit: https://docs.swanfi.xyz/guide/how-to-claim-rewards-on-swanfi
+You can claim your rewards anytime. For detailed instructions on claiming rewards, visit: [how-to-claim-rewards-on-swanfi.md](how-to-claim-rewards-on-swanfi.md "mention")
 
 ### How are rewards calculated?
 
 Rewards are calculated based on your share of the total staking pool, daily revenue, and platform fees.&#x20;
 
-For details, visit: [https://docs.swanfi.xyz/reward-pools/swanfi-op-reward-pool](https://docs.swanfi.xyz/reward-pools/swanfi-op-reward-pool)
+For details, visit: [swanfi-op-reward-pool.md](../products/swanfi-op-reward-pool.md "mention")
 
 ### When does the APR update?
 
 APR updates after the daily settlement at 10 AM EST every day.
+
+### How long will the OP reward pool last?
+
+The OP reward pool is designed to distribute a total of **15M OP tokens** over **a 240-day period**. This significant allocation ensures sustained rewards for participants during this timeframe.
+
+### How can I reduce high gas fees?
+
+If you're experiencing high gas fees, you can optimize them by adjusting your MetaMask settings. For detailed instructions on reducing gas fees on Swan Chain, please visit our documentation: [https://docs.swanchain.io/network-reference/fees#how-to-reduce-gas-fees-on-swan-chain-with-metamask](https://docs.swanchain.io/network-reference/fees#how-to-reduce-gas-fees-on-swan-chain-with-metamask)
 
 ### Why can't I see SWAN or fSWAN in my wallet?
 
@@ -70,8 +78,6 @@ If you see this error:
 * Accumulated rewards are stored in a smart contract
 * Daily snapshots determine earnings for each fSWAN holder
 * Rewards are displayed in fSWAN on the dashboard
-
-
 
 ### Where can I get support for SwanFi?
 
