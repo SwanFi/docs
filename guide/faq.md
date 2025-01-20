@@ -39,7 +39,7 @@ APR updates after the daily settlement at 10 AM EST every day.
 
 ### How long will the OP reward pool last?
 
-The OP reward pool is designed to distribute a total of **15M OP tokens** over **a 240-day period**. This significant allocation ensures sustained rewards for participants during this timeframe.
+The OP reward pool is designed to distribute up to a total of **150k OP tokens** over **a 240-day period**. This significant allocation ensures sustained rewards for participants during this timeframe.
 
 ### How can I reduce high gas fees?
 
