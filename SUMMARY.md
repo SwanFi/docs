@@ -17,4 +17,5 @@
 * [How to Stake SWAN on SwanFi](guide/how-to-stake-swan-on-swanfi.md)
 * [How to Unstake SWAN on SwanFi](guide/how-to-unstake-swan-on-swanfi.md)
 * [How to Claim Rewards on SwanFi](guide/how-to-claim-rewards-on-swanfi.md)
+* [Reward Mechanism](guide/reward-mechanism.md)
 * [FAQ](guide/faq.md)
