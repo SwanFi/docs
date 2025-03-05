@@ -81,4 +81,4 @@ If you see this error:
 
 ### Where can I get support for SwanFi?
 
-For support, users can visit the Swan Chain [Discord](https://discord.com/invite/swanchain) or [Telegram](https://t.me/swan_chain) communities.
+For support, users can visit the Swan Chain [Discord](https://discord.gg/DM5xBUnvt9) or [Telegram](https://t.me/swan_chain) communities.
